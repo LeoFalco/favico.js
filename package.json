@@ -20,7 +20,7 @@
     "url": "https://github.com/ejci/favico.js/issues"
   },
   "devDependencies": {
-    "uglify-js": "~2.4.0",
+    "uglify-js": "~3.10.0",
     "jshint": "~2.1.11",
     "semver": "~2.1.0"
   },
